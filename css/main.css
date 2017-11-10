@@ -3281,3 +3281,7 @@ footer ul li {
 #cForm {
 	margin-top: 3.6rem;
 }
+
+img.circle{
+	border-radius:50%;
+}
